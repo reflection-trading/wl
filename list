@@ -1,7 +1,7 @@
-#Ed Boyle
-192.168.0.146
-
 # Add IP address one per line
+
+#Ed Boyle
+173.2.32.119
 
 # pete work pc
 #69.117.144.76
@@ -9,9 +9,6 @@
 # pete at home
 51.79.156.20
 108.41.14.233
-
-# pete iphone
-69.117.144.76
 
 #New Relic monitoring IP address list for Mumbai India
 3.110.73.192/26
