@@ -16,20 +16,3 @@
 3.134.25.131
 3.23.47.185
 
-#New Relic monitoring IP address list for Mumbai India
-3.110.73.192/26
-3.111.138.0/25
-43.205.150.128/26
-43.204.166.240/28
-
-#Josh at my office
-73.110.53.177
-
-#Alejandro from Telegram
-38.25.16.188
-
-#jane at lab
-128.252.230.183
-
-#Certik for smart contract audit
-13.53.245.173
